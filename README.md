@@ -12,4 +12,4 @@ Newest Beta: (r1.0) `pastebin get wEqSucUG installerframework.beta.lua`
 
 
 
-You can see all [commands/functions](https://github.com/OfficialCRUGG/cc-installer/wiki/Commands "OfficialCRUGG/cc-installer/wiki/Commands") in [the wiki](https://github.com/OfficialCRUGG/cc-installer/wiki/ "OfficialCRUGG/cc-installer/wiki").
+You can see all [commands/functions](https://github.com/OfficialCRUGG/cc-installer/wiki/Commands "OfficialCRUGG/cc-installer/wiki/Commands") in the [wiki](https://github.com/OfficialCRUGG/cc-installer/wiki/ "OfficialCRUGG/cc-installer/wiki").
