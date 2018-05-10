@@ -11,4 +11,5 @@ Newest Beta: (r1.0) `pastebin get wEqSucUG installerframework.beta.lua`
 (If there's no Beta which is newer than the newest release, it'll download the newest release)
 
 
+
 You can see all commands/functions in [the wiki](https://github.com/OfficialCRUGG/cc-installer/wiki/Commands "OfficialCRUGG/cc-installer/wiki/Commands").
